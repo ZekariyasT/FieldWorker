@@ -16,7 +16,7 @@ The **Field Worker App** is a **React Native** application designed to streamlin
 - **Frontend:** React Native
 - **Backend:** Firebase (Authentication, Firestore, Storage)
 - **Maps & Location:**  React Native Maps
-- **State Management:** Redux / Context API
+- **State Management:** Redux 
 
 ## 📦 Installation
 ```bash
